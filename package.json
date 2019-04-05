@@ -1,0 +1,10 @@
+{
+  "name": "swapi-graphql",
+  "version": "1.0.0",
+  "description": "Starwars GraphQL API",
+  "main": "index.js",
+  "repository": "https://github.com/ely-alamillo/swapi-graphql.git",
+  "author": "Ely Alamillo <ely0013@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
